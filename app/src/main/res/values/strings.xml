@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="today">Today </string>
+
+    <string name="humidity">Humidity</string>
+    <string name="cloudCover">Cloud Cover</string>
+    <string name="windSpeed">Wind Speed</string>
+    <string name="visibility">Visibility</string>
+    <string name="Kilometer">KM</string>
+</resources>
